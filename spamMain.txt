@@ -20,7 +20,6 @@ public class uRunner {
 			for(z = 0; z < 1000000; z++)
 				y.println("sucker");
 			y.close();
-			System.out.print((i+1) + " files have been made");
 		}
 	}
 }
